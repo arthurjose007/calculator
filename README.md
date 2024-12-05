@@ -19,5 +19,3 @@ This app uses the math_expressions package to evaluate mathematical expressions 
 
 Enjoy using the calculator and let its smooth animations and clear layout make your calculations a fun experience! ✨
 
-![calculator](assets/cal2.png)
-![calculator](assets/cal1.png)
