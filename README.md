@@ -19,4 +19,6 @@ This app uses the math_expressions package to evaluate mathematical expressions 
 
 Enjoy using the calculator and let its smooth animations and clear layout make your calculations a fun experience! ✨
 
-![calculator](https://github.com/arthurjose007/calculator/tree/163249b36ec58d68441049d577a3f1884a6f1309/assets)
+<img src="assets/cal2.jpg" alt="calculator" width="200"/>
+or
+![calculator](assets/cal2.jpg)
