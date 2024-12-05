@@ -20,5 +20,4 @@ This app uses the math_expressions package to evaluate mathematical expressions 
 Enjoy using the calculator and let its smooth animations and clear layout make your calculations a fun experience! ✨
 
 <img src="assets/cal2.jpg" alt="calculator" width="200"/>
-or
-![calculator](assets/cal2.jpg)
+<img src="assets/cal1.jpg" alt="calculator" width="200"/>
