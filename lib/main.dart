@@ -106,15 +106,17 @@ class _HomePageState extends State<HomePage> {
                         alignment: Alignment.centerLeft,
                         child: Text(
                           userQuestion,
-                          style: const TextStyle(fontSize: 20),
+                          style: const TextStyle(fontSize: 23),
                         )),
                     Container(
-                        padding: const EdgeInsets.all(20),
-                        alignment: Alignment.centerRight,
-                        child: Text(
-                          userAnswer,
-                          style: const TextStyle(fontSize: 20),
-                        )),
+                      padding: const EdgeInsets.all(20),
+                      alignment: Alignment.centerRight,
+                      child: Text(
+                        userAnswer,
+                        style: const TextStyle(
+                            fontSize: 30, fontWeight: FontWeight.bold),
+                      ),
+                    ),
                   ],
                 ),
               ),
